@@ -1,0 +1,15 @@
+ErrorDocument 400 http://eshost.es/error/400.html
+
+ErrorDocument 401 http://eshost.es/error/401.html
+
+ErrorDocument 403 http://eshost.es/error/403.html
+
+ErrorDocument 404 http://eshost.es/error/404.html
+
+ErrorDocument 408 http://eshost.es/error/408.html
+
+ErrorDocument 500 http://eshost.es/error/500.html
+
+ErrorDocument 503 http://eshost.es/error/503.html
+
+ErrorDocument 509 http://eshost.es/error/509.html
